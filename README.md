@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Frontend Portfolio Banner" />
+  <img src="/assets/banner.jpg" alt="Frontend Portfolio Banner" />
 </p>
 
 <h1 align="center">Jonata — Frontend Developer</h1>
