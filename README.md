@@ -55,31 +55,6 @@ Experienced in taking products from **Figma → React**, with attention to perfo
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Project Name
-**Frontend application built with React**
-
-- UI designed in Figma and fully implemented in React
-- Component-based structure
-- Responsive layout
-- Clean and readable code
-
-🔗 Live Demo | 📂 Repository
-
----
-
-### 🔹 Project Name
-**UI-focused web interface**
-
-- Design system concepts
-- Reusable components
-- Focus on usability and layout consistency
-
-🔗 Live Demo | 📂 Repository
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
