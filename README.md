@@ -83,8 +83,8 @@ Experienced in taking products from **Figma → React**, with attention to perfo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JonataMonteiroO&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonataMonteiro&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ Experienced in taking products from **Figma → React**, with attention to perfo
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonataMonteiro&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
