@@ -7,7 +7,7 @@
 <p align="center">&lt; Building interfaces with code & design /&gt;</p>
 
 <p align="center">
-  ###JavaScript • React • UI Engineering • Figma
+  JavaScript • React • UI Engineering • Figma
 </p>
 
 ---
