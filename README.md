@@ -7,17 +7,7 @@
 <p align="center">&lt; Building interfaces with code & design /&gt;</p>
 
 <p align="center">
-  JavaScript • React • UI Engineering • Figma
-</p>
-
----
-
-<!-- QUICK LINKS -->
-<p align="center">
-  <a href="https://github.com/SEU_USUARIO">GitHub</a> •
-  <a href="https://SEU_PORTFOLIO.com">Portfolio</a> •
-  <a href="https://www.figma.com/@SEU_USUARIO">Figma</a> •
-  <a href="https://www.linkedin.com/in/SEU_USUARIO">LinkedIn</a>
+  ###JavaScript • React • UI Engineering • Figma
 </p>
 
 ---
