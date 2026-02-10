@@ -1,8 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/58/23/9f/58239fe515966d172e2a7667c965867c.jpg" alt="Frontend Portfolio Banner" />
-</p>
-
 <h1 align="center">Jonata — Frontend Developer</h1>
 <p align="center">&lt; Building interfaces with code & design /&gt;</p>
 
