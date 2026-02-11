@@ -22,7 +22,6 @@ Experienced in taking products from **Figma → React**, with attention to perfo
 - State management and props-driven UI
 - Responsive layouts & modern CSS
 - Design-to-code workflow (Figma → Implementation)
-- Clean code, reusability, and readability
 - Basic accessibility and UI best practices
 
 ---
